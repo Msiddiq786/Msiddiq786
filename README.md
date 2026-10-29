@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MOHAMMAD SIDDIQ SHAIK</h1>
 
-<h3 align="center">B.Tech CSE '27 | Aspiring Software Engineer | Full-Stack Development, Cloud & Data Engineering</h3>
+<h3 align="center">B.Tech CSE '27 | Aspiring Cloud Data Engineering | Full-Stack Development, Software Engineering</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=msiddiq786&label=Profile%20Views&color=0e75b6&style=flat" alt="GitHub profile views counter for msiddiq786" />
