@@ -58,31 +58,6 @@ An AI-based project in active development. Details will be added here as the imp
 
 ---
 
-#### ☁️ AWS College Admission Processing & Verification System
-![Cloud](https://img.shields.io/badge/Cloud%20%26%20Data%20Engineering-FF9900?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
-<!-- TODO: link repo: [AWS College Admission Processing & Verification System](YOUR_REPO_URL). Confirm each status below against your repo. -->
-Serverless workflow that ingests college applications, validates them, orchestrates processing, stores records, sends notifications, and prepares data for analytics.
-
-```text
-Application submission → API Gateway → Lambda validation → S3 (documents / JSON)
-        → Step Functions orchestration → RDS (MySQL) storage + SNS notifications
-        → AWS Glue processing → Amazon Redshift analytics (in progress)
-```
-
-| Component | Role | Status |
-|:--|:--|:--|
-| API Gateway · Lambda | Application submission and validation | ✅ Implemented |
-| S3 | Application documents and JSON data | ✅ Implemented |
-| Step Functions · EventBridge | Workflow orchestration and event-driven automation | ✅ Implemented |
-| SNS | Notifications | ✅ Implemented |
-| Secrets Manager · RDS (MySQL) | Credentials and application records | ✅ Implemented |
-| CloudWatch | Logging and debugging | ✅ Implemented |
-| AWS Glue | ETL and data processing | ✅ Implemented |
-| Redshift · PySpark | Analytical loading and processing | 📘 Learning / in progress |
-
-**Stack:** `AWS Lambda` `API Gateway` `Step Functions` `S3` `SNS` `EventBridge` `CloudWatch` `Secrets Manager` `RDS MySQL` `AWS Glue`
-
----
 
 #### 🛡️ AI Security & Attendance Management System
 <!-- TODO: link repo: [AI Security & Attendance Management System](YOUR_REPO_URL) -->
@@ -111,12 +86,7 @@ Network traffic analysis project that captures and inspects packets in real time
 
 ---
 
-#### 🖥️ AWS Static Hosting — EC2 + Nginx and S3
-![Status](https://img.shields.io/badge/Docs-In%20Progress-yellow?style=flat-square)
-<!-- TODO: link repo once published: [AWS S3 Static Hosting](YOUR_REPO_URL) -->
-Portfolio website hosted on an **EC2 Linux server with Nginx**, documented alongside **S3 static hosting**, VPC networking, security groups, and an S3 vs EC2 + Nginx comparison, with screenshots.
 
----
 
 ### 🛠️ Languages and Tools
 
@@ -165,23 +135,8 @@ Portfolio website hosted on an **EC2 Linux server with Nginx**, documented along
 * Developed and tested Python applications using OOP, data structures, algorithms, and modular programming
 * Worked on debugging, reliability, maintainability, and code quality
 
----
 
-### 🏆 Certifications and Achievements
 
-| 📜 Certifications | Issuer | Year |
-|:--|:--|:--:|
-| Introduction to Web Applications | Akamai Technologies | 2025 |
-| Development Python Program | E & ICT Academy, IIT Kanpur | 2024 |
-| Introduction to Operating Systems Specialization | Codio | 2024 |
-| Introduction to Graph Theory *(with Honors)* | UC San Diego | 2024 |
-
-**🥇 Achievements**
-* Ranked among the **top 10 students** in the batch
-* Solved **100+ DSA problems** on coding platforms, including LeetCode
-* Led collaborative academic and software development projects
-
----
 
 ### 🔭 What I'm Working On
 
