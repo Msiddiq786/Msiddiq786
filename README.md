@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MOHAMMAD SIDDIQ SHAIK</h1>
 
-<h3 align="center">Computer Science Student | Aspiring Software Development Engineer | Full-Stack & AI Engineering</h3>
+<h3 align="center">Computer Science Student | Aspiring Software Development Engineer | Cloud Data Engineer & AI Engineering</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=msiddiq786&label=Profile%20Views&color=0e75b6&style=flat" alt="msiddiq786" />
