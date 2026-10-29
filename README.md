@@ -185,6 +185,17 @@ Network traffic analysis project that captures and inspects packets in real time
 #### 🧱 Other Full-Stack Applications
 Practical applications including an inventory management system and a food delivery app.
 
+---
+
+### 🎓 Education
+
+| Institution | Qualification | Period | Score |
+|---|---|---|---|
+| **JAIN (Deemed-to-be University)**, Bengaluru | B.Tech in Computer Science Engineering | 2023 – 2027 | **CGPA 9.10** |
+| Narayana College – BIEAP | Class XII | 2023 | **97.9%** |
+| Narayana School – CBSE | Class X | 2021 | **93%** |
+
+---
 
 
 ### 🔗 Connect With Me
